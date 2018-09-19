@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backtrace.WebApplicationSample", "Backtrace.WebApplicationSample\Backtrace.WebApplicationSample.csproj", "{F6482CFE-67C4-4272-8D3F-51860447319B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6482CFE-67C4-4272-8D3F-51860447319B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6482CFE-67C4-4272-8D3F-51860447319B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6482CFE-67C4-4272-8D3F-51860447319B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6482CFE-67C4-4272-8D3F-51860447319B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3389814-2E5D-4105-B62F-23C81987B9A5}
+	EndGlobalSection
+EndGlobal
