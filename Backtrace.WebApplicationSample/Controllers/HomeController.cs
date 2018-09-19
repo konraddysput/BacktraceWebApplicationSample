@@ -11,10 +11,9 @@ namespace Backtrace.WebApplicationSample.Controllers
     /// <summary>
     /// Simple example how to use Backtrace Client in ASP.NET MVC
     /// 1.[Home Controller] Simple example how to send data via BacktraceClient from Controller. (You're here)
-    /// 2.[Middleware] Simple example how to use middlewares to provide usefull analytics to Backtrace API
-    /// 3.[Dependency Injection] Example how to use our client with Autofac
+    /// 2.[Middleware - BaseController] Simple example how to use middlewares to provide usefull analytics to Backtrace API
     /// </summary>
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         public ActionResult Index()
         {
